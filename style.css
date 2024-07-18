@@ -1,0 +1,31 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+.ucapan-habedeh{
+    background-color: #ffdfba;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 50px auto;
+    width: 300px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.foto-habedeh {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+h1 {
+color: #191970;
+font-size: 24px;
+}
+
+p {
+    color: #333;
+    font-size: 16px;
+}
